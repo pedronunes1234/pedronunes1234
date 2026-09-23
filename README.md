@@ -2,35 +2,35 @@
 
 **`Desenvolvedor Front-End / FullStack`**
 
-Me chamo Pedro Gustavo, sou desenvolvedor Front-End com especialidade em HTML5, CSS3, JavaScript, React e automações com IA. Tenho 1 ano de experiência, 4+ projetos reais e 100% de dedicação ao desenvolvimento de aplicações modernas, eficientes e responsivas. Entre em contato para propostas de desenvolvimento, projetos e parcerias!
+Me chamo Pedro Gustavo, sou desenvolvedor Front-End com especialidade em HTML5, CSS3, JavaScript, React e automações com IA[cite: 10]. Tenho 1 ano de experiência, 4+ projetos reais e 100% de dedicação ao desenvolvimento de aplicações modernas, eficientes e responsivas[cite: 3, 4]. Entre em contato para propostas de desenvolvimento, projetos e parcerias[cite: 10]!
 
 <p align="left">
     <a href="https://pedro-dev-portfolio-psi.vercel.app" target="_blank">
         <img 
             alt="Portfólio" 
             title="Meu Portfólio" 
-            src="https://custom-icon-badges.demolab.com/badge/Portfólio-Vercel-black?style=for-the-badge&logo=vercel&logoColor=white"
+            src="https://img.shields.io/badge/Portfólio-Vercel-black?style=for-the-badge&logo=vercel&logoColor=white"
         />
     </a>
     <a href="https://github.com/pedronunes1234">
         <img 
             alt="Experiência" 
             title="Anos de Experiência" 
-            src="https://custom-icon-badges.demolab.com/static/v1?label=Experiência&message=1%20Ano&color=%23E05D44&logo=clock&logoColor=white&style=for-the-badge&labelColor=CE4630"
+            src="https://img.shields.io/badge/Experiência-1_Ano-red?style=for-the-badge"
         />
     </a> 
     <a href="https://github.com/pedronunes1234">
         <img 
             alt="Projetos Reais" 
             title="Projetos Reais" 
-            src="https://custom-icon-badges.demolab.com/static/v1?label=Projetos&message=4%2B%20Reais&color=%23E1AD0E&logo=briefcase&logoColor=white&style=for-the-badge&labelColor=C79600"
+            src="https://img.shields.io/badge/Projetos-4%2B_Reais-green?style=for-the-badge"
         />
     </a>
     <a href="https://github.com/pedronunes1234?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/pedronunes1234?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            src="https://img.shields.io/badge/Seguidores-6-blue?style=for-the-badge&logo=github&logoColor=white"
         />
     </a>
 </p>
@@ -65,5 +65,5 @@ Me chamo Pedro Gustavo, sou desenvolvedor Front-End com especialidade em HTML5, 
 ### 📫 Fale Comigo
 
 - 🌐 **Portfólio:** [pedro-dev-portfolio-psi.vercel.app](https://pedro-dev-portfolio-psi.vercel.app)
-- ✉️ **E-mail:** [pedrogustavonunescosta2439@gmail.com](mailto:pedrogustavonunescosta2439@gmail.com)
-- 💼 **GitHub:** [github.com/pedronunes1234](https://github.com/pedronunes1234)
+- ✉️ **E-mail:** [pedrogustavonunescosta2439@gmail.com](mailto:pedrogustavonunescosta2439@gmail.com)[cite: 10]
+- 💼 **GitHub:** [github.com/pedronunes1234](https://github.com/pedronunes1234)[cite: 10]
