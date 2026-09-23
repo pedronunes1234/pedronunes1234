@@ -26,13 +26,6 @@ Me chamo Pedro Gustavo, sou desenvolvedor Front-End com especialidade em HTML5, 
             src="https://img.shields.io/badge/Projetos-4%2B_Reais-green?style=for-the-badge"
         />
     </a>
-    <a href="https://github.com/pedronunes1234?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://img.shields.io/badge/Seguidores-6-blue?style=for-the-badge&logo=github&logoColor=white"
-        />
-    </a>
 </p>
 
 ---
