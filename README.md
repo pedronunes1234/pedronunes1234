@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Front-End / FullStack`**
 
-Me chamo Pedro Gustavo, sou desenvolvedor Front-End com especialidade em HTML5, CSS3, JavaScript, React e automações com IA[cite: 10]. Tenho 1 ano de experiência, 4+ projetos reais e 100% de dedicação ao desenvolvimento de aplicações modernas, eficientes e responsivas[cite: 3, 4]. Entre em contato para propostas de desenvolvimento, projetos e parcerias[cite: 10]!
+Me chamo Pedro Gustavo, sou desenvolvedor Front-End com especialidade em HTML5, CSS3, JavaScript, React e automações com IA. Tenho 1 ano de experiência, 4+ projetos reais e 100% de dedicação ao desenvolvimento de aplicações modernas, eficientes e responsivas. Entre em contato para propostas de desenvolvimento, projetos e parcerias!
 
 <p align="left">
     <a href="https://pedro-dev-portfolio-psi.vercel.app" target="_blank">
@@ -48,15 +48,15 @@ Me chamo Pedro Gustavo, sou desenvolvedor Front-End com especialidade em HTML5, 
 
 ### 🚀 Meus Projetos Reais
 
-- **🛒 Pedex (antigo Pedido Certo):** Sistema de gestão de pedidos comercial para rentabilização real. Backend em Node.js, MySQL e sistema de repasse Pix automático com Split de Pagamento[cite: 7].
-- **🍽️ Food Restaurante:** Interface web elegante e 100% responsiva para apresentação de cardápios e pratos[cite: 7].
-- **📅 Sistema de Agendamentos:** Plataforma de agendamento online em tempo real com integração ao banco de dados Firebase[cite: 9].
-- **🛍️ Plataforma Marketplace:** Marketplace moderno integrando frontend em React, backend em Node.js com MySQL e fluxos inteligentes com IA Workflow[cite: 9].
+- **🛒 Pedex (antigo Pedido Certo):** Sistema de gestão de pedidos comercial para rentabilização real. Backend em Node.js, MySQL e sistema de repasse Pix automático com Split de Pagamento.
+- **🍽️ Food Restaurante:** Interface web elegante e 100% responsiva para apresentação de cardápios e pratos.
+- **📅 Sistema de Agendamentos:** Plataforma de agendamento online em tempo real com integração ao banco de dados Firebase.
+- **🛍️ Plataforma Marketplace:** Marketplace moderno integrando frontend em React, backend em Node.js com MySQL e fluxos inteligentes com IA Workflow.
 
 ---
 
 ### 📫 Fale Comigo
 
 - 🌐 **Portfólio:** [pedro-dev-portfolio-psi.vercel.app](https://pedro-dev-portfolio-psi.vercel.app)
-- ✉️ **E-mail:** [pedrogustavonunescosta2439@gmail.com](mailto:pedrogustavonunescosta2439@gmail.com)[cite: 10]
-- 💼 **GitHub:** [github.com/pedronunes1234](https://github.com/pedronunes1234)[cite: 10]
+- ✉️ **E-mail:** [pedrogustavonunescosta2439@gmail.com](mailto:pedrogustavonunescosta2439@gmail.com)
+- 💼 **GitHub:** [github.com/pedronunes1234](https://github.com/pedronunes1234)
